@@ -1,0 +1,3 @@
+The verbs in this sentence are: is, was, be, do, will, can, has, had.
+The word "been" is also a verb.
+I should go to the park.gcc lex.yy.c -o recognize_verbs -ll
